@@ -1,5 +1,6 @@
 ### Profile 👋
 
+**Blog** - [**슬렘의 프로그래밍 블로그**](https://kgmslem.github.io/)  
 **University** - [**Incheon National University**](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)
 
 <!--
