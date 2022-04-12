@@ -24,17 +24,18 @@ Here are some ideas to get you started:
 
 ## Interest
 
-### Fields
-
 * Game Development
 * Deep Reinforcement Learning
 
-### Languages
+## Skill
 
+* Unity
 * C#
 * Python
 * C++
 
 ## Project
 
-* "Back to the Dungeon" game developement in Unity
+* "Back to the Dungeon" game developement
+  * Download: https://devslem.itch.io/back-to-the-dungeon 
+  * Scripts: https://github.com/kgmslem/back-to-the-dungeon-scripts
