@@ -22,20 +22,30 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgmslem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Skill
+
+<p>
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+
 ## Interest
 
 * Game Development
 * Deep Reinforcement Learning
-
-## Skill
-
-* Unity
-* C#
-* Python
-* C++
 
 ## Project
 
 * "Back to the Dungeon" game developement
   * Download: https://devslem.itch.io/back-to-the-dungeon 
   * Scripts: https://github.com/kgmslem/back-to-the-dungeon-scripts
+
+
+
