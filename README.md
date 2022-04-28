@@ -1,4 +1,6 @@
-## Profile 👋
+# Profile 👋
+
+I'm a korean developer and a college student.
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
 **Blog** - [슬렘의 프로그래밍 블로그](https://kgmslem.github.io/)  
@@ -24,27 +26,28 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgmslem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Skill
+### Tech stacks
 
 <p>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
+Python, C++ are beginner levels. I'm currently learning them.
 
-## Interest
+### Interests
 
 * Game Development
 * Deep Reinforcement Learning
 
-## Project
+### Projects
 
-* **"Back to the Dungeon"** game developement - Unity project
+I'm gonna start soon unity 3D game project.  
+Next semester, I will start unity ml-agents project where i use ml-agents python low-level api.
+
+* **"Back to the Dungeon"** - Unity 2D game
   * [Repository](https://github.com/kgmslem/back-to-the-dungeon-scripts) - only script files
   * [Portfolio](https://github.com/kgmslem/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-kgmslem.md)
 
