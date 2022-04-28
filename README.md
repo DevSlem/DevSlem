@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ## Project
 
 * **"Back to the Dungeon"** game developement - Unity project
-  * Download: https://devslem.itch.io/back-to-the-dungeon 
-  * Scripts: https://github.com/kgmslem/back-to-the-dungeon-scripts
+  * [Repository](https://github.com/kgmslem/back-to-the-dungeon-scripts) - only script files
+  * [Portfolio](https://github.com/kgmslem/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-kgmslem.md)
 
 
 
