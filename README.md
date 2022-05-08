@@ -4,7 +4,8 @@ I'm a korean developer and a college student.
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
 **Blog** - [슬렘의 프로그래밍 블로그](https://kgmslem.github.io/)  
-**E-mail** - <devslem12@gmail.com>
+**E-mail** - <devslem12@gmail.com>  
+**Organization** - [Team UGD](https://github.com/Team-UGD)
 
 <!--
 **kgmslem/kgmslem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
