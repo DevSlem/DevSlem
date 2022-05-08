@@ -49,8 +49,8 @@ I'm gonna start soon unity 3D game project.
 Next semester, I will start unity ml-agents project where i use ml-agents python low-level api.
 
 * **"Back to the Dungeon"** - Unity 2D game
-  * [Repository](https://github.com/kgmslem/back-to-the-dungeon-scripts) - only script files
-  * [Portfolio](https://github.com/kgmslem/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-kgmslem.md)
+  * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
+  * [Portfolio](https://github.com/Team-UGD/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-kgmslem.md)
 
 
 
