@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgmslem&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
+![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/0-profile-details.svg)
+![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/4-productive-time.svg)
 
 ### Tech Stack
 
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/ML%20Agents-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 
-C++ is beginner level. I currently learn it.
+C++ is beginner level. I'm currently learning **ML-Agents**, **PyTorch**.
 
 ### Interests
 
@@ -47,8 +48,8 @@ C++ is beginner level. I currently learn it.
 
 ### Projects
 
-I'm gonna start soon unity 3D game project.  
-Next semester, I will start unity ml-agents project where i use ml-agents python low-level api.
+I'm gonna start soon an Unity 3D game project.  
+Next semester, I'm gonna start a Unity ML-Agents project. In the project I'll create some custom DRL models and then train them using ML-Agents Python low level api.
 
 * **"Back to the Dungeon"** - Unity 2D game
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
