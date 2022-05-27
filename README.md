@@ -22,21 +22,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgmslem&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgmslem&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgmslem&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgmslem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Tech stacks
+
+### Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-Python, C++ are beginner levels. I'm currently learning them.
+<p>
+ <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ML%20Agents-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+
+C++ is beginner level. I currently learn it.
 
 ### Interests
 
