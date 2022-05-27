@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <p>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
  <img src="https://img.shields.io/badge/ML%20Agents-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+</p>
 
 C++ is beginner level. I'm currently learning **ML-Agents**, **PyTorch**.
 
