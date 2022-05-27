@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/0-profile-details.svg)
-![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/4-productive-time.svg)
 
 ### Tech Stack
 
