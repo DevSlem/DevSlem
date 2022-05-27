@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgmslem&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/0-profile-details.svg)
-![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/4-productive-time.svg)
+![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/2-most-commit-language.svg) 
 
 
 
