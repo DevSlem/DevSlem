@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/0-profile-details.svg)
+![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/0-profile-details.svg)  
 ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/4-productive-time.svg)
 
-### Tech Stack
+### Tech Stacks
 
 <p>
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
