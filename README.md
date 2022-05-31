@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/0-profile-details.svg)  
 ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/4-productive-time.svg)
 
-### Tech Stacks
+### 🔸Tech Stacks
 
 <p>
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 
 C++ is beginner level. I'm currently learning **ML-Agents**, **PyTorch**.
 
-### Interests
+### 🔸Interests
 
 * Game Development
 * Deep Reinforcement Learning
 
-### Projects
+### 🔸Projects
 
 I'm gonna start soon an Unity 3D game project.  
 Next semester, I'm gonna start a Unity ML-Agents project. In the project I'll create some custom DRL models and then train them using ML-Agents Python low level api.
