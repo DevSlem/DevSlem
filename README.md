@@ -3,12 +3,12 @@
 I'm a korean developer and a college student.
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
-**Blog** - [슬렘의 프로그래밍 블로그](https://kgmslem.github.io/)  
+**Blog** - [슬렘의 프로그래밍 블로그](https://devslem.github.io/)  
 **E-mail** - <devslem12@gmail.com>  
 **Organization** - [Team UGD](https://github.com/Team-UGD)
 
 <!--
-**kgmslem/kgmslem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevSlem/DevSlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/0-profile-details.svg)  
-![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/kgmslem/kgmslem/main/profile-summary-card-output/radical/4-productive-time.svg)
+![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/0-profile-details.svg)  
+![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/4-productive-time.svg)
 
 ### Tech Stacks
 
@@ -53,7 +53,7 @@ Next semester, I'm gonna start a Unity ML-Agents project. In the project I'll cr
 
 * **"Back to the Dungeon"** - Unity 2D game
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
-  * [Portfolio](https://github.com/Team-UGD/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-kgmslem.md)
+  * [Portfolio](https://github.com/Team-UGD/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-DevSlem.md)
 
 
 
