@@ -43,7 +43,7 @@ I'm currently learning **ML-Agents**, **PyTorch**.
 
 ### Interests
 
-* **Deep Reinforcement Learning (DRL)**
+* **Deep Reinforcement Learning (DRL)** 🔥
 * Game Development
 
 ### Projects
