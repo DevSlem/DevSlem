@@ -43,13 +43,12 @@ I'm currently learning **ML-Agents**, **PyTorch**.
 
 ### Interests
 
+* **Deep Reinforcement Learning (DRL)**
 * Game Development
-* Deep Reinforcement Learning
 
 ### Projects
 
-I'm gonna start soon an Unity 3D game project.  
-Next semester, I'm gonna start a Unity ML-Agents project. In the project I'll create some custom DRL models and then train them using ML-Agents Python low level api.
+I'm gonna develop the DRL framework and some famous DRL models.  
 
 * **"Back to the Dungeon"** - Unity 2D game
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
