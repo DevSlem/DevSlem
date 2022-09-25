@@ -3,7 +3,7 @@
 I'm a korean developer and a college student.
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
-**Blog** - [슬렘의 프로그래밍 블로그](https://devslem.github.io/)  
+**Blog** - [DevSlem Blog](https://devslem.github.io/) where i write posts about RL, ML, Unity, etc  
 **E-mail** - <devslem12@gmail.com>  
 **Organization** - [Team UGD](https://github.com/Team-UGD)
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/0-profile-details.svg)  
 ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/4-productive-time.svg)
 
-### Tech Stacks
+### Tech Stack
 
 <p>
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -41,18 +41,22 @@ Here are some ideas to get you started:
 
 I'm currently learning **ML-Agents**, **PyTorch**.
 
-### Interests
+### Interest
 
-* **Deep Reinforcement Learning (DRL)** 🔥
+* **Reinforcement Learning (RL)** 🔥
+* Machine Learning (ML)
 * Game Development
 
-### Projects
+### Project
 
-I'm gonna develop the DRL framework and some famous DRL models.  
-
-* **"Back to the Dungeon"** - Unity 2D game
+* **"Back to the Dungeon"** - Unity 2D Game
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
   * [Portfolio](https://github.com/Team-UGD/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-DevSlem.md)
-
-
-
+* **AINE-DRL** - Deep Reinforcement Learning Modularization
+  * In progress 🔥
+  * [Repository](https://github.com/DevSlem/AINE-DRL)
+* **Jjintta vs Iljin** (working title) - Unity 3D Game
+  * In progress 🔥
+* **De Novo Targeted Molecular Generation** (working title) - Deep Generative Model & Deep Reinforcement Learning
+  * In Progress 🔥
+  * Contribution to the deep reinforcement learning.
