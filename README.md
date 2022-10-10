@@ -1,6 +1,7 @@
 # Profile 👋
 
-I'm a korean developer and a college student.
+I'm a korean machine learning developer and a college student.  
+I'm so interested in reinforcement learning.
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
 **Blog** - [DevSlem Blog](https://devslem.github.io/) where i write posts about RL, ML, Unity, etc  
@@ -45,11 +46,13 @@ I'm currently learning **ML-Agents**, **PyTorch**.
 
 * **Reinforcement Learning (RL)** 🔥
 * Machine Learning (ML)
+* Deep Learning (DL)
 * Game Development
 
 ### Project
 
-* **"Back to the Dungeon"** - Unity 2D Game
+* **Back to the Dungeon** - Unity 2D Game
+  * [Download](https://devslem.itch.io/back-to-the-dungeon)
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
   * [Portfolio](https://github.com/Team-UGD/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-DevSlem.md)
 * **AINE-DRL** - Deep Reinforcement Learning Modularization
