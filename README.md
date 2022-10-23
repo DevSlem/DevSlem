@@ -1,12 +1,13 @@
 # Profile 👋
 
-I'm a korean machine learning developer and a college student.  
-I'm so interested in reinforcement learning.
+I'm a korean machine learning and reinforcement learning developer.  
+I'm also a college student.  
+I'm currently interested in reinforcement learning.
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
 **Blog** - [DevSlem Blog](https://devslem.github.io/) where i write posts about RL, ML, Unity, etc  
+**Study Blog** - [CS Ping Ping](https://blog-cs-pingping.vercel.app/docs/intro)  
 **E-mail** - <devslem12@gmail.com>  
-**Organization** - [Team UGD](https://github.com/Team-UGD)
 
 <!--
 **DevSlem/DevSlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/0-profile-details.svg)  
-![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/4-productive-time.svg)
+<!-- ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/0-profile-details.svg) -->  
+![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/github_dark/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ### Tech Stack
 
