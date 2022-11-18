@@ -61,7 +61,7 @@ I'm currently learning **Rust**, **Machine Learning**.
   * In progress 🔥
   * [Repository](https://github.com/DevSlem/AINE-DRL)
 * **Jjintta vs Iljin** (working title) - Unity 3D Game
-  * In progress 🔥
+  * Suspended 💧
 * **De Novo Targeted Molecular Generation** (working title) - Deep Generative Model & Deep Reinforcement Learning
   * In Progress 🔥
   * Contribution to the deep reinforcement learning.
