@@ -57,7 +57,7 @@ I'm currently learning **Rust**, **Machine Learning**.
   * [Download](https://devslem.itch.io/back-to-the-dungeon)
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
   * [Portfolio](https://github.com/Team-UGD/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-DevSlem.md)
-* **AINE-DRL** - Deep Reinforcement Learning Modularization
+* **AINE-DRL** - Deep Reinforcement Learning Framework
   * In progress 🔥
   * [Repository](https://github.com/DevSlem/AINE-DRL)
 * **Jjintta vs Iljin** (working title) - Unity 3D Game
@@ -65,3 +65,5 @@ I'm currently learning **Rust**, **Machine Learning**.
 * **De Novo Targeted Molecular Generation** (working title) - Deep Generative Model & Deep Reinforcement Learning
   * In Progress 🔥
   * Contribution to the deep reinforcement learning.
+* **P-COLO** - Priority Container Loading Problem using Deep Reinforcement Learning
+  * In Progress 🔥
