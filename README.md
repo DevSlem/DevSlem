@@ -1,8 +1,6 @@
 # Profile 👋
 
-I'm a korean machine learning and reinforcement learning developer.  
-I'm also a college student.  
-I'm currently interested in reinforcement learning.
+![](images/some-new-ideas-are-here-needed.png)
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
 **Blog** - [DevSlem Blog](https://devslem.github.io/) where i write posts about RL, ML, Unity, etc  
