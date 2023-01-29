@@ -40,14 +40,17 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </p>
 
-I'm currently learning **Rust**, **Machine Learning**.
-
 ### Interest
 
 * **Reinforcement Learning (RL)** 🔥
 * Machine Learning (ML)
 * Deep Learning (DL)
 * Game Development
+
+### Study
+
+* [Deep Multi-Agent Reinforcement Learning](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)
+* Design Pattern
 
 ### Project
 
