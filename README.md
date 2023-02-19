@@ -67,5 +67,8 @@ Here are some ideas to get you started:
 * **De Novo Targeted Molecular Generation** (working title) - deep generative model & deep reinforcement learning
   * In Progress 🔥
   * Contribution to the deep reinforcement learning.
+* **Fast!val** - website which provides the festival information
+  * In Progress 🔥
+  * Contribution to the Unity application
 * **P-COLO** - priority container loading problem using deep reinforcement learning
   * In Progress 🔥
