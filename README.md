@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 ### Study
 
 * [Deep Multi-Agent Reinforcement Learning](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)
+* [Deep Learning with PyTorch](https://github.com/DevSlem/deep-learning-with-pytorch)
 * Design Pattern
-* Backend
 
 ### Project
 
