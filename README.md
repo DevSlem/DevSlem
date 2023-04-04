@@ -56,12 +56,11 @@ Here are some ideas to get you started:
 ### Project
 
 * **Back to the Dungeon** - Unity 2D platformer shooting game
-  * [Download](https://devslem.itch.io/back-to-the-dungeon)
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
-  * [Portfolio](https://github.com/Team-UGD/back-to-the-dungeon-scripts/blob/main/Portfolios/portfolio-DevSlem.md)
+  * [Download](https://devslem.itch.io/back-to-the-dungeon)
 * **AINE-DRL** - deep reinforcement learning baseline framework
-  * In progress 🔥
   * [Repository](https://github.com/DevSlem/AINE-DRL)
+  * [Download](https://pypi.org/project/aine-drl/)
 * **Eclipse of Evil** (working title) - Unity 3D horror game
   * In progress 🔥
 * **De Novo Targeted Molecular Generation** (working title) - deep generative model & deep reinforcement learning
