@@ -68,6 +68,6 @@ Here are some ideas to get you started:
   * Contribution to the deep reinforcement learning.
 * **Fast!val** - website which provides the festival information
   * In Progress 🔥
-  * Contribution to the Unity application
+  * Contribution to the AI, backend
 * **P-COLO** - priority container loading problem using deep reinforcement learning
   * In Progress 🔥
