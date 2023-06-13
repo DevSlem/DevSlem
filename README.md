@@ -1,10 +1,9 @@
 # Profile 👋
 
-![](images/some-new-ideas-are-here-needed.png)
+<!--![](images/some-new-ideas-are-here-needed.png)-->
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
-**Blog** - [DevSlem Blog](https://devslem.github.io/) where i write posts about RL, ML, Unity, etc  
-**Study Blog** - [CS Ping Ping](https://blog-cs-pingping.vercel.app/docs/intro)  
+**Blog** - [DevSlem Blog](https://devslem.github.io/)  
 **E-mail** - <devslem12@gmail.com>  
 
 <!--
@@ -40,18 +39,11 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </p>
 
-### Interest
+### Field
 
 * **Reinforcement Learning (RL)** 🔥
-* Machine Learning (ML)
-* Deep Learning (DL)
+* Backend
 * Game Development
-
-### Study
-
-* [Deep Multi-Agent Reinforcement Learning](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)
-* [Deep Learning with PyTorch](https://github.com/DevSlem/deep-learning-with-pytorch)
-* Design Pattern
 
 ### Project
 
@@ -69,5 +61,3 @@ Here are some ideas to get you started:
 * **Fast!val** - website which provides the festival information
   * In Progress 🔥
   * Contribution to the AI, backend
-* **P-COLO** - priority container loading problem using deep reinforcement learning
-  * In Progress 🔥
