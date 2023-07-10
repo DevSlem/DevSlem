@@ -6,6 +6,20 @@
 **Blog** - [DevSlem Blog](https://devslem.github.io/)  
 **E-mail** - <devslem12@gmail.com>  
 
+```python
+# take a step
+S = "busy" # state
+A = "play" in { "play", "work" } # action
+S' = "boom" # next state
+R = -100 # penalty
+
+# learn from an experience
+Q[S,A] += alpha * (R + gamma * max(Q[S',:]) - Q[S,A])
+
+# but, still I don't want to work...
+A' = "play" # next action
+```
+
 <!--
 **DevSlem/DevSlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
