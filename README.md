@@ -6,6 +6,8 @@
 **Blog** - [DevSlem Blog](https://devslem.github.io/)  
 **E-mail** - <devslem12@gmail.com>  
 
+I optimize my daily routine using reinforcement learning (Q-learning):
+
 ```python
 # take a step
 S = "busy" # state
