@@ -6,7 +6,11 @@
 **Blog** - [DevSlem Blog](https://devslem.github.io/)  
 **E-mail** - <devslem12@gmail.com>  
 
-I optimize my daily routine using reinforcement learning (Q-learning):
+Curruntly:
+
+* study **offline RL** 🔥(repository: [DevSlem/OfflineRL](https://github.com/DevSlem/OfflineRL)).
+
+I optimize my daily routine using **reinforcement learning** (Q-learning):
 
 ```python
 # take a step
@@ -58,7 +62,7 @@ Here are some ideas to get you started:
 ### Field
 
 * **Reinforcement Learning (RL)** 🔥
-* Backend
+* Machine Learning
 * Game Development
 
 ### Project
@@ -74,6 +78,3 @@ Here are some ideas to get you started:
 * **De Novo Targeted Molecular Generation** (working title) - deep generative model & deep reinforcement learning
   * In Progress 🔥
   * Contribution to the deep reinforcement learning.
-* **Fast!val** - website which provides the festival information
-  * In Progress 🔥
-  * Contribution to the AI, backend
