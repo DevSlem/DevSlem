@@ -9,6 +9,7 @@
 Curruntly:
 
 * study **offline RL** 🔥(repository: [DevSlem/OfflineRL](https://github.com/DevSlem/OfflineRL)).
+* wrting a paper about RL
 
 I optimize my daily routine using **reinforcement learning** (Q-learning):
 
