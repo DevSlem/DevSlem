@@ -5,10 +5,11 @@
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
 **Blog** - [DevSlem Blog](https://devslem.github.io/)  
 **E-mail** - <devslem12@gmail.com>  
+**LinkedIn** - [Jinyeong Park](https://www.linkedin.com/in/jinyeong-park-24176525a/)
 
 Curruntly:
 
-* study **offline RL** 🔥(repository: [DevSlem/OfflineRL](https://github.com/DevSlem/OfflineRL)).
+* study [Deep Learning by Goodfellow et al.](https://www.deeplearningbook.org/)
 * wrting a paper about RL
 
 I optimize my daily routine using **reinforcement learning** (Q-learning):
@@ -48,23 +49,22 @@ Here are some ideas to get you started:
 ### Tech Stack
 
 <p>
- <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+ <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  
  <br>
- 
+
+ <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
  <img src="https://img.shields.io/badge/ML%20Agents-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </p>
 
 ### Field
 
 * **Reinforcement Learning (RL)** 🔥
 * Machine Learning
-* Game Development
 
 ### Project
 
@@ -74,8 +74,5 @@ Here are some ideas to get you started:
 * **AINE-DRL** - deep reinforcement learning baseline framework
   * [Repository](https://github.com/DevSlem/AINE-DRL)
   * [Download](https://pypi.org/project/aine-drl/)
-* **Eclipse of Evil** (working title) - Unity 3D horror game
-  * In progress 🔥
-* **De Novo Targeted Molecular Generation** (working title) - deep generative model & deep reinforcement learning
-  * In Progress 🔥
-  * Contribution to the deep reinforcement learning.
+* **Intrinsic Rewards for Molecular Reinforcement Learning** (working title)
+  * Release Soon 🔥
