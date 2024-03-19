@@ -10,7 +10,7 @@
 Curruntly:
 
 * study [Deep Learning by Goodfellow et al.](https://www.deeplearningbook.org/)
-* wrting a paper about RL
+* submit the paper!: Mol-AIR
 
 I optimize my daily routine using **reinforcement learning** (Q-learning):
 
@@ -68,11 +68,12 @@ Here are some ideas to get you started:
 
 ### Project
 
-* **Back to the Dungeon** - Unity 2D platformer shooting game
+* **Back to the Dungeon**: Unity 2D Platformer Shooting Game
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
   * [Download](https://devslem.itch.io/back-to-the-dungeon)
-* **AINE-DRL** - deep reinforcement learning baseline framework
+* **AINE-DRL**: Deep Reinforcement Learning Baseline Framework
   * [Repository](https://github.com/DevSlem/AINE-DRL)
   * [Download](https://pypi.org/project/aine-drl/)
-* **Intrinsic Rewards for Molecular Reinforcement Learning** (working title)
-  * Release Soon 🔥
+* **Mol-AIR**: Molecular Reinforcement Learning with Adaptive Intrinsic Reward for Goal-directed Molecular Generation
+  * Paper (not published yet)
+  * [Repository](https://github.com/DevSlem/Mol-AIR)
