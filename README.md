@@ -75,5 +75,5 @@ Here are some ideas to get you started:
   * [Repository](https://github.com/DevSlem/AINE-DRL)
   * [Download](https://pypi.org/project/aine-drl/)
 * **Mol-AIR**: Molecular Reinforcement Learning with Adaptive Intrinsic Reward for Goal-directed Molecular Generation
-  * Paper (not published yet)
   * [Repository](https://github.com/DevSlem/Mol-AIR)
+  * [Paper](https://arxiv.org/abs/2403.20109)
