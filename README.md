@@ -7,12 +7,7 @@
 **E-mail** - <devslem12@gmail.com>  
 **LinkedIn** - [Jinyeong Park](https://www.linkedin.com/in/jinyeong-park-24176525a/)
 
-Curruntly:
-
-* study [Deep Learning by Goodfellow et al.](https://www.deeplearningbook.org/)
-* submit the paper!: Mol-AIR
-
-I optimize my daily routine using **reinforcement learning** (Q-learning):
+Optimize my daily routine using **reinforcement learning** (Q-learning):
 
 ```python
 # take a step
@@ -21,7 +16,7 @@ A = "play" in { "play", "work" } # action
 S' = "boom" # next state
 R = -100 # penalty
 
-# learn from an experience
+# learn from the experience
 Q[S,A] += alpha * (R + gamma * max(Q[S',:]) - Q[S,A])
 
 # but, still I don't want to work...
@@ -77,3 +72,5 @@ Here are some ideas to get you started:
 * **Mol-AIR**: Molecular Reinforcement Learning with Adaptive Intrinsic Reward for Goal-directed Molecular Generation
   * [Repository](https://github.com/DevSlem/Mol-AIR)
   * [Paper](https://arxiv.org/abs/2403.20109)
+* **Multiple Knapsack**: Multiple Knapsack Optimization using Deep Reinforcement Learning with Transformer
+  * [Repository](https://github.com/DevSlem/multi-knapsack)
