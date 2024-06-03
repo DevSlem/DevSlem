@@ -73,4 +73,4 @@ Here are some ideas to get you started:
   * [Repository](https://github.com/DevSlem/Mol-AIR)
   * [Paper](https://arxiv.org/abs/2403.20109)
 * **Multiple Knapsack**: Multiple Knapsack Optimization using Deep Reinforcement Learning with Transformer
-  * [Repository](https://github.com/DevSlem/multi-knapsack)
+  * [Repository](https://github.com/DevSlem/multiple-knapsack)
