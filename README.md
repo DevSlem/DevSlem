@@ -1,6 +1,8 @@
-# Profile 👋
+# I'm Jinyeong (DevSlem)! 👋
 
 <!--![](images/some-new-ideas-are-here-needed.png)-->
+
+Hi, I'm an AI researcher interested in deep learning and reinforcement learning. Feel free to see my projects and contact me.
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
 **Blog** - [DevSlem Blog](https://devslem.github.io/)  
@@ -39,8 +41,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/radical/0-profile-details.svg) -->  
-![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/github_dark/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+<!-- ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/github_dark/2-most-commit-language.svg) ![](https://raw.githubusercontent.com/DevSlem/DevSlem/main/profile-summary-card-output/github_dark/4-productive-time.svg) -->
 
+<!--
 ### Tech Stack
 
 <p>
@@ -55,14 +58,27 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
  <img src="https://img.shields.io/badge/ML%20Agents-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
+-->
 
-### Field
+### 🔥 Future Works
 
-* **Reinforcement Learning (RL)** 🔥
-* Machine Learning
+* State space model for drug design
+* Spiking neural network (SNN)
+* RL comparison for data-driven combinatorial optimization
+* Utilizing and developping the RL-based reasoning model R1 for other domains
 
-### Project
+### 🚀 Projects
 
+|Title|Category|Available Sources|Description|
+|:---:|:---:|:---:|---|
+|**Back to the Dungeon** (2022)|Unity, Game|[Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) / [Download](https://devslem.itch.io/back-to-the-dungeon)|Unity 2D platformer shooting game|
+|**Move-Tool** (2022)|Unity, Utility|[Repository](https://github.com/DevSlem/unity-move-tool)|Unity editor position handle utility for the vector-like fields|
+|**AINE-DRL** (2023)|RL, Utility|[Repository](https://github.com/DevSlem/AINE-DRL) / [Download](https://pypi.org/project/aine-drl/)|Deep reinforcement learning baseline framework|
+|**Multiple Knapsack** (2024)|RL, Combinatorial|[Repository](https://github.com/DevSlem/multiple-knapsack)|Comprehensive comparison of RL methods for the multiple knapsack problem|
+|**Incheon Bus Optimization** (2025)|ML, Transit Design|Comming Soon!|-|
+|**Mol-AIR** (2025, Published Soon🔥)|RL, Drug Design|[Repository](https://github.com/DevSlem/Mol-AIR) / [Paper](https://arxiv.org/abs/2403.20109)|Molecular reinforcement learning with adaptive intrinsic reward for goal-directed molecular generation|
+
+<!--
 * **Back to the Dungeon**: Unity 2D Platformer Shooting Game
   * [Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) - only script files
   * [Download](https://devslem.itch.io/back-to-the-dungeon)
@@ -74,3 +90,4 @@ Here are some ideas to get you started:
   * [Paper](https://arxiv.org/abs/2403.20109)
 * **Multiple Knapsack**: Multiple Knapsack Optimization using Deep Reinforcement Learning with Transformer
   * [Repository](https://github.com/DevSlem/multiple-knapsack)
+-->
