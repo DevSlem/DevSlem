@@ -69,14 +69,15 @@ Here are some ideas to get you started:
 
 ### 🚀 Projects
 
-|Title|Category|Available Sources|Description|
+|Title ⬇️|Category|Available Sources|Description|
 |:---:|:---:|:---:|---|
-|**Back to the Dungeon** (2022)|Unity, Game|[Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) / [Download](https://devslem.itch.io/back-to-the-dungeon)|Unity 2D platformer shooting game|
-|**Move-Tool** (2022)|Unity, Utility|[Repository](https://github.com/DevSlem/unity-move-tool)|Unity editor position handle utility for the vector-like fields|
-|**AINE-DRL** (2023)|RL, Utility|[Repository](https://github.com/DevSlem/AINE-DRL) / [Download](https://pypi.org/project/aine-drl/)|Deep reinforcement learning baseline framework|
-|**Multiple Knapsack** (2024)|RL, Combinatorial|[Repository](https://github.com/DevSlem/multiple-knapsack)|Comprehensive comparison of RL methods for the multiple knapsack problem|
-|**Incheon Bus Optimization** (2025)|ML, Transit Design|Comming Soon!|-|
-|**Mol-AIR** (2025, Published Soon🔥)|RL, Drug Design|[Repository](https://github.com/DevSlem/Mol-AIR) / [Paper](https://arxiv.org/abs/2403.20109)|Molecular reinforcement learning with adaptive intrinsic reward for goal-directed molecular generation|
+|**Mol-AIR** _(2025, Published Soon🔥)_|RL, Drug Design|[Repository](https://github.com/DevSlem/Mol-AIR) / [Paper](https://arxiv.org/abs/2403.20109)|Molecular reinforcement learning with adaptive intrinsic reward for goal-directed molecular generation|
+|**Incheon Bus Optimization** _(2025)_|ML, Transit Design|Comming Soon!|-|
+|**Multiple Knapsack** _(2024)_|RL, Combinatorial|[Repository](https://github.com/DevSlem/multiple-knapsack)|Comprehensive comparison of RL methods for the multiple knapsack problem|
+|**AINE-DRL** _(2023)_|RL, Utility|[Repository](https://github.com/DevSlem/AINE-DRL) / [Download](https://pypi.org/project/aine-drl/)|Deep reinforcement learning baseline framework|
+|**Move-Tool** _(2022)_|Unity, Utility|[Repository](https://github.com/DevSlem/unity-move-tool)|Unity editor position handle utility for the vector-like fields|
+|**Back to the Dungeon** _(2022)_|Unity, Game|[Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) / [Download](https://devslem.itch.io/back-to-the-dungeon)|Unity 2D platformer shooting game|
+
 
 <!--
 * **Back to the Dungeon**: Unity 2D Platformer Shooting Game
