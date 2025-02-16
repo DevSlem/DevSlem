@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Projects
 
-|Title ⬇️|Category|Available Sources|Description|
+|Title _(Year)_ ⬇️|Category|Available Sources|Description|
 |:---:|:---:|:---:|---|
 |**Mol-AIR** _(2025, Published Soon🔥)_|RL, Drug Design|[Repository](https://github.com/DevSlem/Mol-AIR) / [Paper](https://arxiv.org/abs/2403.20109)|Molecular reinforcement learning with adaptive intrinsic reward for goal-directed molecular generation|
 |**Incheon Bus Optimization** _(2025)_|ML, Transit Design|Comming Soon!|-|
