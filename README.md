@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 |Title _(Year)_ ⬇️|Category|Available Sources|Description|
 |:---:|:---:|:---:|---|
-|**Mol-AIR** _(2025, Published Soon🔥)_|RL, Drug Design|[Repository](https://github.com/DevSlem/Mol-AIR) / [Paper](https://arxiv.org/abs/2403.20109)|Molecular reinforcement learning with adaptive intrinsic reward for goal-directed molecular generation|
+|**Mol-AIR** _(2025)_|RL, Drug Design|[Repository](https://github.com/DevSlem/Mol-AIR) / [Paper](https://arxiv.org/abs/2403.20109)|Molecular reinforcement learning with adaptive intrinsic reward for goal-directed molecular generation|
 |**Incheon Bus Optimization** _(2025)_|ML, Transit Design|Comming Soon!|-|
 |**Multiple Knapsack** _(2024)_|RL, Combinatorial|[Repository](https://github.com/DevSlem/multiple-knapsack)|Comprehensive comparison of RL methods for the multiple knapsack problem|
 |**AINE-DRL** _(2023)_|RL, Utility|[Repository](https://github.com/DevSlem/AINE-DRL) / [Download](https://pypi.org/project/aine-drl/)|Deep reinforcement learning baseline framework|
