@@ -2,7 +2,7 @@
 
 <!--![](images/some-new-ideas-are-here-needed.png)-->
 
-Hi, I'm an AI researcher interested in deep learning and reinforcement learning. Feel free to see my projects and contact me.
+Hi, I'm an AI researcher interested in Reinforcement Learning, Computer Vision, and Multimodal Learning. Please refer to the [Curriculum Vitae](https://devslem.github.io/portfolio) for details. Feel free to see my projects and contact me.
 
 **University** - [Incheon National University](https://www.inu.ac.kr/mbshome/mbs/inuengl/index.html)  
 **Blog** - [DevSlem Blog](https://devslem.github.io/)  
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-
+<!--
 ### 🚀 Projects
 
 |Title _(Year)_ ⬇️|Category|Available Sources|Description|
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 |**AINE-DRL** _(2023)_|RL, Utility|[Repository](https://github.com/DevSlem/AINE-DRL) / [Download](https://pypi.org/project/aine-drl/)|Deep reinforcement learning baseline framework|
 |**Move-Tool** _(2022)_|Unity, Utility|[Repository](https://github.com/DevSlem/unity-move-tool)|Unity editor position handle utility for the vector-like fields|
 |**Back to the Dungeon** _(2022)_|Unity, Game|[Repository](https://github.com/Team-UGD/back-to-the-dungeon-scripts) / [Download](https://devslem.itch.io/back-to-the-dungeon)|Unity 2D platformer shooting game|
-
+-->
 
 <!--
 * **Back to the Dungeon**: Unity 2D Platformer Shooting Game
